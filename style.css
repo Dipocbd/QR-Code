@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    background-color:hsl(220, 15%, 55%);
+
+}
+main{
+    align-items:center;
+    text-align:center;
+    background-color:white;
+    height:500px;
+    width:325px;
+    margin:auto;
+    margin-top:100px;
+    border-radius:1rem;
+}
+h1{
+    font-size:15px;
+    margin:15px;
+    color:hsl(218, 44%, 22%);
+}
+p{
+    margin:15px;
+    color:Light gray hsl(212, 45%, 89%);
+}
+img{
+    margin:auto 12px;
+    margin-top:15px;
+    width:300px;
+}
